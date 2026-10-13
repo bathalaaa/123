@@ -1,0 +1,447 @@
+[
+{
+"word": "this",
+"start": 0.0,
+"end": 0.31
+},
+{
+"word": "tiny",
+"start": 0.31,
+"end": 0.75
+},
+{
+"word": "chai",
+"start": 0.75,
+"end": 1.09
+},
+{
+"word": "stall",
+"start": 1.09,
+"end": 1.49
+},
+{
+"word": "sells",
+"start": 1.49,
+"end": 1.84
+},
+{
+"word": "over",
+"start": 1.84,
+"end": 2.1
+},
+{
+"word": "three",
+"start": 2.1,
+"end": 2.56
+},
+{
+"word": "hundred(2)",
+"start": 2.56,
+"end": 3.03
+},
+{
+"word": "cups",
+"start": 3.03,
+"end": 3.35
+},
+{
+"word": "a",
+"start": 3.35,
+"end": 3.4
+},
+{
+"word": "day",
+"start": 3.4,
+"end": 3.99
+},
+{
+"word": "but",
+"start": 4.5,
+"end": 4.68
+},
+{
+"word": "how",
+"start": 4.8,
+"end": 5.02
+},
+{
+"word": "much",
+"start": 5.02,
+"end": 5.25
+},
+{
+"word": "does(2)",
+"start": 5.25,
+"end": 5.41
+},
+{
+"word": "the(2)",
+"start": 5.41,
+"end": 5.6
+},
+{
+"word": "owner",
+"start": 5.6,
+"end": 5.95
+},
+{
+"word": "actually(3)",
+"start": 5.95,
+"end": 6.46
+},
+{
+"word": "take",
+"start": 6.46,
+"end": 6.71
+},
+{
+"word": "home",
+"start": 6.71,
+"end": 7.17
+},
+{
+"word": "setting",
+"start": 7.72,
+"end": 8.08
+},
+{
+"word": "up",
+"start": 8.08,
+"end": 8.25
+},
+{
+"word": "costs",
+"start": 8.25,
+"end": 8.68
+},
+{
+"word": "around",
+"start": 8.68,
+"end": 8.96
+},
+{
+"word": "fifty",
+"start": 8.96,
+"end": 9.38
+},
+{
+"word": "thousand(2)",
+"start": 9.38,
+"end": 9.94
+},
+{
+"word": "rupees",
+"start": 9.94,
+"end": 10.53
+},
+{
+"word": "a",
+"start": 10.8,
+"end": 10.87
+},
+{
+"word": "cart",
+"start": 10.87,
+"end": 11.39
+},
+{
+"word": "a",
+"start": 11.47,
+"end": 11.55
+},
+{
+"word": "stove",
+"start": 11.55,
+"end": 12.09
+},
+{
+"word": "and",
+"start": 12.09,
+"end": 12.33
+},
+{
+"word": "some",
+"start": 12.33,
+"end": 12.52
+},
+{
+"word": "utensils",
+"start": 12.52,
+"end": 13.23
+},
+{
+"word": "each",
+"start": 13.89,
+"end": 14.13
+},
+{
+"word": "cup",
+"start": 14.13,
+"end": 14.44
+},
+{
+"word": "sells",
+"start": 14.44,
+"end": 14.75
+},
+{
+"word": "for(2)",
+"start": 14.75,
+"end": 14.89
+},
+{
+"word": "fifteen",
+"start": 14.89,
+"end": 15.54
+},
+{
+"word": "rupees",
+"start": 15.54,
+"end": 16.11
+},
+{
+"word": "so",
+"start": 16.32,
+"end": 16.68
+},
+{
+"word": "daily",
+"start": 16.68,
+"end": 17.03
+},
+{
+"word": "sales",
+"start": 17.03,
+"end": 17.5
+},
+{
+"word": "reach",
+"start": 17.5,
+"end": 17.78
+},
+{
+"word": "four",
+"start": 17.78,
+"end": 18.07
+},
+{
+"word": "thousand(2)",
+"start": 18.07,
+"end": 18.53
+},
+{
+"word": "five",
+"start": 18.53,
+"end": 18.88
+},
+{
+"word": "hundred",
+"start": 18.88,
+"end": 19.33
+},
+{
+"word": "rupees",
+"start": 19.33,
+"end": 19.87
+},
+{
+"word": "milk",
+"start": 20.43,
+"end": 20.96
+},
+{
+"word": "tea",
+"start": 21.08,
+"end": 21.3
+},
+{
+"word": "leaves",
+"start": 21.3,
+"end": 21.86
+},
+{
+"word": "sugar",
+"start": 21.86,
+"end": 22.47
+},
+{
+"word": "gas",
+"start": 22.57,
+"end": 23.01
+},
+{
+"word": "and",
+"start": 23.01,
+"end": 23.17
+},
+{
+"word": "cups",
+"start": 23.17,
+"end": 23.7
+},
+{
+"word": "eat",
+"start": 23.7,
+"end": 23.96
+},
+{
+"word": "up",
+"start": 23.96,
+"end": 24.09
+},
+{
+"word": "about",
+"start": 24.09,
+"end": 24.4
+},
+{
+"word": "two",
+"start": 24.4,
+"end": 24.65
+},
+{
+"word": "thousand(2)",
+"start": 24.65,
+"end": 25.08
+},
+{
+"word": "seven",
+"start": 25.08,
+"end": 25.45
+},
+{
+"word": "hundred(4)",
+"start": 25.45,
+"end": 25.89
+},
+{
+"word": "rupees",
+"start": 25.89,
+"end": 26.41
+},
+{
+"word": "that",
+"start": 26.97,
+"end": 27.13
+},
+{
+"word": "leaves",
+"start": 27.13,
+"end": 27.42
+},
+{
+"word": "roughly",
+"start": 27.42,
+"end": 27.78
+},
+{
+"word": "one",
+"start": 27.78,
+"end": 28.12
+},
+{
+"word": "thousand",
+"start": 28.12,
+"end": 28.65
+},
+{
+"word": "eight",
+"start": 28.65,
+"end": 28.83
+},
+{
+"word": "hundred",
+"start": 28.83,
+"end": 29.22
+},
+{
+"word": "rupees",
+"start": 29.22,
+"end": 29.57
+},
+{
+"word": "a",
+"start": 29.57,
+"end": 29.63
+},
+{
+"word": "day",
+"start": 29.63,
+"end": 30.09
+},
+{
+"word": "or",
+"start": 30.3,
+"end": 30.72
+},
+{
+"word": "over",
+"start": 30.72,
+"end": 30.96
+},
+{
+"word": "fifty",
+"start": 30.96,
+"end": 31.44
+},
+{
+"word": "thousand(2)",
+"start": 31.44,
+"end": 32.03
+},
+{
+"word": "rupees",
+"start": 32.03,
+"end": 32.38
+},
+{
+"word": "a",
+"start": 32.38,
+"end": 32.42
+},
+{
+"word": "month",
+"start": 32.42,
+"end": 32.93
+},
+{
+"word": "not",
+"start": 33.34,
+"end": 33.55
+},
+{
+"word": "bad",
+"start": 33.55,
+"end": 33.9
+},
+{
+"word": "for(2)",
+"start": 33.9,
+"end": 34.09
+},
+{
+"word": "a",
+"start": 34.09,
+"end": 34.13
+},
+{
+"word": "cart",
+"start": 34.13,
+"end": 34.45
+},
+{
+"word": "on(2)",
+"start": 34.45,
+"end": 34.54
+},
+{
+"word": "the",
+"start": 34.54,
+"end": 34.61
+},
+{
+"word": "corner",
+"start": 34.61,
+"end": 35.12
+}
+]
