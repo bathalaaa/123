@@ -1,6 +1,6 @@
 # Storyboard: Chai Stall Explainer
 
-Status: **waiting for your approval.** Nothing has been rendered to video yet.
+Status: **approved and rendered** to `out/chai-stall-explainer.mp4`.
 
 - Format: 1920 x 1080, 30 fps, H.264 + AAC
 - Voiceover: your file `Chai_Story.mp3` (35.3 s), copied to `public/audio/voiceover.mp3`
@@ -44,6 +44,7 @@ The thumbnails show the **last frame of each scene**, once everything has appear
 | **VO** | "Setting up costs around ₹50,000: a cart, a stove, and some utensils." |
 | **On screen** | Title "Setup cost". Big `₹50,000` counts up. Cart, stove and utensils pop in one by one, each with a price tag (₹35,000 / ₹10,000 / ₹5,000). |
 | **Sync** | Total on "fifty" (8.96 s), cart on "cart" (10.87 s), stove on "stove" (11.55 s), utensils on "utensils" (12.52 s) |
+| **QA change** | Dashed empty slots with "₹ ?" tags fill the frame until each item is spoken, so the scene never looks empty. |
 | **Note** | In your brief the items appear first and the total comes after. The narration says "₹50,000" **before** naming the items, so to stay on the words, the total appears first here. |
 
 ### Scene 4: Revenue (13.56 to 20.15 s)
@@ -71,7 +72,7 @@ The thumbnails show the **last frame of each scene**, once everything has appear
 |---|---|
 | **VO** | "That leaves roughly ₹1,800 a day, or over ₹50,000 a month." |
 | **On screen** | Green `₹1,800 / day` counts up. A calendar flips from day 1 to day 30. Then `₹50,000+ / month` pops in, with three rupee notes. |
-| **Sync** | `₹1,800` on "one" (27.78 s), calendar on "or" (30.30 s), monthly figure on "fifty" (30.96 s) |
+| **Sync** | `₹1,800` on "one" (27.78 s), calendar appears on "day" (29.63 s) and flips from "or" (30.30 s), monthly figure on "fifty" (30.96 s) |
 
 ### Scene 7: Outro (33.14 to 36.12 s)
 ![Scene 7](storyboard/scene7.png)

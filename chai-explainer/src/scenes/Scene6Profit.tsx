@@ -13,6 +13,7 @@ export const Scene6Profit: React.FC = () => {
   const frame = useCurrentFrame();
   const c = cues.profit;
   const dayAt = local("profit", c.perDay);
+  const calShowAt = local("profit", c.calendarShow);
   const calAt = local("profit", c.calendar);
   const monthAt = local("profit", c.perMonth);
   const dayFloat = interpolate(frame, [calAt, monthAt], [1, 30], { extrapolateLeft: "clamp", extrapolateRight: "clamp" });
@@ -28,7 +29,7 @@ export const Scene6Profit: React.FC = () => {
             <span style={{ fontSize: 90, color: colors.charcoal }}> / day</span>
           </BigNumber>
         </PopIn>
-        <PopIn delay={calAt} style={{ position: "absolute", left: 300, top: 420 }}>
+        <PopIn delay={calShowAt} style={{ position: "absolute", left: 300, top: 420 }}>
           <div style={{ transform: `scaleY(${squash})`, transformOrigin: "50% 0%" }}>
             <Calendar width={320} day={day} />
           </div>

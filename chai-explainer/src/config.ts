@@ -55,7 +55,7 @@ export const cues = {
   setup: { total: 8.96, cart: 10.87, stove: 11.55, utensils: 12.52 },
   revenue: { cup: 13.89, times: 16.32, equals: 17.78 },
   costs: { milk: 20.43, tea: 21.08, sugar: 21.86, gas: 22.57, cups: 23.17, drain: 24.4 },
-  profit: { perDay: 27.78, calendar: 30.3, perMonth: 30.96 },
+  profit: { perDay: 27.78, calendarShow: 29.63, calendar: 30.3, perMonth: 30.96 },
   outro: { wave: 33.55 },
 };
 // </timings>

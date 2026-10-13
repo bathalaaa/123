@@ -42,7 +42,7 @@ cues = {
     "revenue": {"cup": find("each"), "times": find("so", after=b3), "equals": find("four", after=b3)},
     "costs": {"milk": find("milk"), "tea": find("tea"), "sugar": find("sugar"), "gas": find("gas"),
               "cups": find("cups", after=b4), "drain": find("two", after=b4)},
-    "profit": {"perDay": find("one", after=b5), "calendar": find("or", after=b5), "perMonth": find("fifty", after=b5)},
+    "profit": {"perDay": find("one", after=b5), "calendarShow": find("day", after=b5), "calendar": find("or", after=b5), "perMonth": find("fifty", after=b5)},
     "outro": {"wave": find("bad")},
 }
 
